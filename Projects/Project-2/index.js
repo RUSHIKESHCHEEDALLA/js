@@ -20,7 +20,7 @@ form.addEventListener('submit',function(e){
       red1.style.color="red";
     }else if (ans>=24.9){
       const red1=document.getElementById('3');
-      red1.style.color="red";
+      red1.style.color="blue";
     }
   }
   
